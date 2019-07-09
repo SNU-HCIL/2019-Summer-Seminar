@@ -1,4 +1,4 @@
-# 2019 Deep Reinforcement Learning for HCIL Masters
+# Deep Reinforcement Learning for HCIL Masters
 
 ## 1. 개요
 
