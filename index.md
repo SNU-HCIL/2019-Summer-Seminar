@@ -12,15 +12,15 @@
 * 다음 2주 동안 [Open AI Gym](https://gym.openai.com/envs/Acrobot-v1/)에서 어려운 것 1개 혹은 쉬운 것 2개를 골라서 자유 구현합니다.
     * 수강생끼리는 프로젝트가 겹치지 않게 합니다.
     
-회차 | 날짜 | 제목
------|-----|------
-1 | 2019.7.15 | Dummy Q Learning
-2 | 2019.7.22 | Q-learning exploit & exploration and discounted reward
-3 | 2019.7.29 | Q-learning in nondeterministic world
-4 | 2019.8.5 | Q-network
-5 | 2019.8.12 | DQN
-6 | 2019.8.19 | 프로젝트 구현 1
-7 | 2019.8.26 | 프로젝트 구현 2
+회차 | 날짜 | 제목 | 발표자
+-----|-----|------|-------
+1 | 2019.7.15 | Dummy Q Learning | 김민지
+2 | 2019.7.22 | Q-learning exploit & exploration and discounted reward | 김준회
+3 | 2019.7.29 | Q-learning in nondeterministic world | 박관모
+4 | 2019.8.5 | Q-network | 정석원
+5 | 2019.8.12 | DQN | 최길웅
+6 | 2019.8.19 | 프로젝트 구현 1 | 고형권
+7 | 2019.8.26 | 프로젝트 구현 2 | 안단태
 
 강의 동영상 및 자료는 [시즌 RL](https://hunkim.github.io/ml/) 페이지에서 참조하세요.
 
