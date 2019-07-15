@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning for HCIL Masters
-[Github](https://github.com/SNU-HCIL/2019-Summer-Seminar)
+
+[Github](https://github.com/SNU-HCIL/2019-Summer-Seminar) [Google Drive](https://drive.google.com/drive/u/3/folders/15HQI7Ycc29T6jH7UaqXs4O9TRNDl-Ljb)
 
 ## 1. 개요
 
