@@ -49,3 +49,18 @@
 세미나 시간엔 발표자의 브리핑을 듣고, 수강생들이 서로의 코드를 보면서 피드백을 주고 받습니다.
 
 
+## Projects
+
+### 5주차: 주제 발표
+
+2주 동안 구현할 강화학습 프로젝트 주제 제안발표를 준비해 와주시기 바랍니다 (3 슬라이드 이내)
+
+* 필수 포함 내용: 환경에 대한 설명(개관, observation space, action space, reward)과 프로젝트의 목표 수치
+
+너무 쉬운 주제를 가져오시면 청중의 피드백에 의해 반려/강화될 수 있습니다. OpenAI Gym Environment는 다음의 카테고리만 허용됩니다.
+
+1. Atari
+2. Box2D
+3. MuJoCo
+4. Roboschool
+5. Robotics
